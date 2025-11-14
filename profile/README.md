@@ -5,7 +5,7 @@
 
 ### Discord
 
-[![Discord Server](https://img.shields.io/discord/your_discord_server_id?logo=discord&logoColor=white&label=Discord)](https://discord.gg/9WF54BSc4s)
+[![Server](https://img.shields.io/discord/your_discord_server_id?logo=discord&logoColor=white&label=Discord)](https://discord.gg/9WF54BSc4s)
 
 ### Telegram
 
