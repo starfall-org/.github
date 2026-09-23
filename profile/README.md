@@ -1,13 +1,19 @@
-# Welcome to Starfall Organization.
+# Starfall Orbit
 
-## About Us
+Starfall Orbit builds software across Android, developer tooling, cloud and storage workflows, and AI clients.
 
+## Public projects
 
-### Discord
+- [MultiGateway](https://github.com/starfall-orbit/multigateway) — LLM client for Android.
+- [ManyDrive](https://github.com/starfall-orbit/manydrive) — file manager for Google Drive.
+- [vscode-remote-sandbox](https://github.com/starfall-orbit/vscode-remote-sandbox) — TypeScript project.
+- [S3 Explorer](https://github.com/starfall-orbit/s3explorer) — TypeScript project.
+- [content-download](https://github.com/starfall-orbit/content-download) — Python project.
 
-[![Server](https://img.shields.io/discord/your_discord_server_id?logo=discord&logoColor=white&label=Discord)](https://discord.gg/9WF54BSc4s)
+## Community
 
-### Telegram
+[Join the Starfall Orbit Discord](https://discord.gg/9WF54BSc4s)
 
-[![Channel](https://img.shields.io/badge/Channel-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/starfall_org)
-[![Group](https://img.shields.io/badge/Group-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/starfall_community)
+## Website
+
+[starfall-orbit.github.io/.github](https://starfall-orbit.github.io/.github/)
