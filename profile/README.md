@@ -4,11 +4,12 @@ Starfall builds software across Android, developer tooling, cloud and storage wo
 
 ## Public projects
 
-- [MultiGateway](https://github.com/starfall-org/multigateway) — LLM client for Android.
+- [Generative](https://github.com/starfall-org/generative) — native Android AI client for ChatGPT, Claude, Gemini, Ollama and more. BYOK, private, and actually native.
 - [ManyDrive](https://github.com/starfall-org/manydrive) — file manager for Google Drive.
-- [vscode-remote-sandbox](https://github.com/starfall-org/vscode-remote-sandbox) — TypeScript project.
-- [S3 Explorer](https://github.com/starfall-org/s3explorer) — TypeScript project.
-- [content-download](https://github.com/starfall-org/content-download) — Python project.
+- [S3 Explorer](https://github.com/starfall-org/s3explorer) — web app for browsing and managing files on Amazon S3.
+- [Remote Sandbox](https://github.com/starfall-org/vscode-remote-sandbox) — VS Code extension to connect to E2B, Freestyle and Tensorlake sandboxes.
+- [Starchatter Telegram](https://github.com/starfall-org/starchatter-telegram) — AI-powered Telegram bot.
+- [MCP servers](https://github.com/starfall-org?tab=repositories&q=mcp) — Model Context Protocol servers for Tensorlake, Remotion, Freestyle, Imagen and ModelScope.
 
 ## Community
 
